@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **the intersection of AI and innovative applications, particularly in areas like Generative AI, Natural Language Processing. I enjoy working with technologies such as LangChain, multi-agent systems, Hugging Face Transformers, and Retriever-Augmented Generation systems.**
 
-- 💬 Ask me about **AI, Machine Learning, NLP, and Computer Vision. I'm always up for a discussion!**
+- 💬 Ask me about **AI, Machine Learning, NLP. I'm always up for a discussion!**
 
 - 📫 How to reach me **laababi.maha@gmail.com**
 
