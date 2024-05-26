@@ -2,9 +2,9 @@
 <h3 align="center">Artificial Intelligence engineering student at Euromed University of Fez, Morocco</h3>
 <img align="right" alt="Coding"width="400"src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
-- 🔭 I’m currently working on **advancing AI technologies to solve real-world problems, focusing on integrating AI into various industries for automation and efficiency**
+- 🔭 I’m currently working on **advancing AI technologies to solve real-world problems.**
 
-- 🌱 I’m currently learning **the intersection of AI and innovative applications, particularly in areas like Generative AI, Natural Language Processing. I enjoy working with technologies such as LangChain, multi-agent systems, Hugging Face Transformers, and Retriever-Augmented Generation systems.**
+- 🌱 I’m currently learning **Generative AI, NLP, and technologies like LangChain and Hugging Face Transformers.**
 
 - 💬 Ask me about **AI, Machine Learning, NLP. I'm always up for a discussion!**
 
